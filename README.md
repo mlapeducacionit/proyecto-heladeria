@@ -1,4 +1,4 @@
-# Proyecot heladería
+# Proyecto heladería
 
 ## Va a tener 3 secciones
 
